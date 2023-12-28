@@ -68,7 +68,7 @@ kubectl get --all-namespaces pods      -w
 
 ```bash
 brew reinstall kn
-kubectl apply -f https://github.com/knative/operator/releases/download/knative-v1.7.1/operator.yaml
+kubectl apply -f https://github.com/knative/operator/releases/download/knative-v1.11.12/operator.yaml
 ```
 
 ### verify
