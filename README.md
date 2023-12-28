@@ -115,7 +115,7 @@ kubectl get -n knative-serving KnativeServing knative-serving      -w
 #knative-serving   1.7.1     False
 #knative-serving   1.7.1     True
 
-kubectl apply -f https://github.com/knative/serving/releases/download/knative-v1.7.2/serving-default-domain.yaml 
+kubectl apply -f https://github.com/knative/serving/releases/download/knative-v1.11.22/serving-default-domain.yaml 
 ```
 
 ### eventing
